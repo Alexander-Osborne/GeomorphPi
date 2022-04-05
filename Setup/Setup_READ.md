@@ -11,11 +11,26 @@ A RaspberryPi can boot into a number of OS, based upon the Debian OS. For Geomor
 
 To install the OS onto your SD card you will need to format and then transfer the OS to the card. To format the SD card first download a SD card formatiing software (available [Here](https://www.sdcard.org/downloads/formatter/)) and format the SD card. **Warning this will erase all data on the SD card**
 
-To place the OS onto the now blank SD card you will need a software package such as balenaEtcher ((available [Here](https://www.balena.io/etcher/)).
+To place the OS onto the now blank SD card you will need a software package such as balenaEtcher (available [Here](https://www.balena.io/etcher/)).
 
 In balenaEtcher select the target drive as the SD card and the file as the RaspberryPi OS. Depending on the SD card this should take no longer than 5 minutes.
 
 
+## Step 2 - First Boot
 
+Inserting the SD card into the RaspberryPi for the first time and booting will load RasperryPi OS. Unlink a desktop computer, the system will boot into terminal mode. This will require a keyboard to navigate.
+
+The RaspberryPi will restart at this stage as it expands its file system storage to take up the full capacity of the SD card.
+
+You will be greeted with a login screen. Username: pi and Password: raspberry.
+
+
+## Step 3 - Connecting to the internet
+
+Connecting the RaspberryPi to the internet will enable the easy installation of packages at a later time. This however does not need to be connected to WiFI when used for data collection.
+
+**Type**
+
+*sudo raspi-config*
 
 
