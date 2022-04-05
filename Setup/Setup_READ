@@ -1,4 +1,3 @@
 # How to optimise the OS
 
-
-In this section there is a guide on how to download and optimise the RaspberryPi OS for use with GeomorphPi. Through a combination of code optimisation and OS selection 
+In this section there is a guide on how to download and optimise the RaspberryPi OS for use with GeomorphPi. Through a combination of code optimisation and OS selection, the end goal is to achieve the fastest boot time.
