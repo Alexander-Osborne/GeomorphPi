@@ -33,4 +33,18 @@ Connecting the RaspberryPi to the internet will enable the easy installation of 
 
 *sudo raspi-config*
 
+Select Network and connect as normal to WiFI.
+
+
+## Step 4 - Update
+
+Update OS by typing
+
+*sudo apt-get update*
+
+
+## Step 5 - Optimise
+
+Depending on the usage certain features can be disabled to allow faster boots. Follow this link to find out more (available [Here](https://singleboardbytes.com/637/how-to-fast-boot-raspberry-pi.htm))
+
 
