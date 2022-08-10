@@ -18,11 +18,11 @@ In balenaEtcher select the target drive as the SD card and the file as the Raspb
 
 ## Step 2 - First Boot
 
-Inserting the SD card into the RaspberryPi for the first time and booting will load RasperryPi OS. Unlink a desktop computer, the system will boot into terminal mode. This will require a keyboard to navigate.
+Inserting the SD card into the RaspberryPi for the first time and booting will load RasperryPi OS. Unlika desktop computer, the system will boot into terminal mode. This will require a keyboard to navigate.
 
 The RaspberryPi will restart at this stage as it expands its file system storage to take up the full capacity of the SD card.
 
-You will be greeted with a login screen. Username: pi and Password: raspberry.
+You will be greeted with a login screen. Username: pi and Password: raspberry (these defaults can change with new OS)
 
 
 ## Step 3 - Connecting to the internet
