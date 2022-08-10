@@ -1,11 +1,28 @@
-# How to optimise the OS
+# How to build a GeomorphPi
 
-In this section there is a guide on how to download and optimise the RaspberryPi OS for use with GeomorphPi. Through a combination of code optimisation and operating system (OS) selection, the end goal is to achieve the fastest boot time.
-
-
+In this section there is a guide on how to build the basic GeomorphPi platform from which additional functions can be added at your own discretion.
 
 
-## Step 1 - Downloading the OS
+
+
+## Step 1 - Raspberry Pi
+
+Using a Raspberry Pi Zero as a base, it can either come headless or with soldered on pins. For ease of use, chose with pins. However, significant savings can be made using headless as long as you are able to solder the pins on yourself.
+
+Familiarise yourself with the layout (available [Here](https://picockpit.com/raspberry-pi/everything-about-raspberry-pi-zero-2-w/)) and the GPIO pinout (available [Here](https://pi4j.com/1.2/pins/model-3a-plus-rev1.html)).
+
+
+
+
+
+## Step 1 - Raspberry Pi
+
+Using a Raspberry Pi Zero as a base, it can either come headless or with soldered on pins. For ease of use, chose with pins. However, significant savings can be made using headless as long as you are able to solder the pins on yourself.
+
+
+
+
+
 
 A RaspberryPi can boot into a number of OS, based upon the Debian OS. For GeomorphPi we chose the RaspberryPi OS Lite (available [Here](https://www.raspberrypi.com/software/operating-systems/)).
 
