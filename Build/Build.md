@@ -1,6 +1,6 @@
 # How to build a GeomorphPi
 
-In this section there is a guide on how to build the basic GeomorphPi platform from which additional functions can be added at your own discretion.
+In this section there is a guide on how to build the basic GeomorphPi platform from which additional functions can be added at your own discretion. It would be up to the builder to decide on the casing required to accomodate any batteries of attatchements. A high IP rating is recommended.
 
 
 
